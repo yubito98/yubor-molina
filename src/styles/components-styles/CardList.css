@@ -1,0 +1,40 @@
+.card-list{
+    width: 100%;
+    padding: 0px 20px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-list-img{
+    height: 100%;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.card-list-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-list-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-list-content h4{
+    color: var(--secondary-color);
+    line-height: 14px;
+    padding-top: 5px;
+    font-size: 22px;
+}
+
+.card-list-content p{
+    margin: 0;
+}
+
+.card-list-content a{
+    color: var(--primary-color)!important;
+}

@@ -1,0 +1,17 @@
+
+.triangle-animation{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 25px 15px;
+    border-color: transparent transparent #042DEA transparent;
+    animation: triangle 2s infinite alternate;
+}
+
+@keyframes triangle{
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+    
+}
+
+

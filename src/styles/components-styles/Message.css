@@ -1,0 +1,25 @@
+.message{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.message-info{
+    text-align: center;
+}
+
+.message-icon{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.message-icon svg{
+    transition: 0.5s;
+}
+
+.message-icon svg:hover{
+    transform: scale(1.1);
+    fill: var(--primary-color)
+}

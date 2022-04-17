@@ -1,0 +1,12 @@
+.square{
+    width: 20px;
+    height: 20px;
+    background-color: var(--primary-color);
+    animation: triangle 2s infinite alternate;
+}
+
+@keyframes triangle{
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+    
+}
