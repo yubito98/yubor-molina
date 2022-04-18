@@ -19,7 +19,7 @@ const SquareAnimation = () =>{
             width: "90%",
             padding:"10px 50px",
             position: "absolute",
-            top:"90%",
+            top:"94%",
             left: 0,
             ...styles,
         }}

@@ -26,7 +26,7 @@ const Footer = () =>{
                 </div>
 
                 <div className="footer-text">
-                    <a href="./">yubormolina.com</a>
+                    <a href="https://yubito98.github.io/yubor-molina/">yubito98.github.io/yubor-molina/</a>
                 </div>
             </div>
         </footer>

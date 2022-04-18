@@ -14,7 +14,7 @@ const MainCard = ({subtitle, title, skills, text, image}) =>{
                 <p className="main-card-subtitle">{subtitle}</p>
                 <h1 className="main-card-title">{title}</h1>
                 <div className="main-card-skills">
-                    <h3>I am good at:</h3>
+                    <h3>I'm good at:</h3>
                     <h2>
                     <TypewriterComponent
                     options={{

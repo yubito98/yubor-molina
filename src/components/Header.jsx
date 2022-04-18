@@ -8,7 +8,7 @@ const Header = () => {
     return (
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid header-container">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="https://yubito98.github.io/yubor-molina/">
             <img class="navbar-brand-img" src={yubor} alt="Yubor Molina" />
             <span>Yubor Molina</span>
             </a>
@@ -25,7 +25,7 @@ const Header = () => {
                         <a class="nav-link active" aria-current="page" href="http://yubito98.github.io/yubor-molina">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="http://yubito98.github.io/yubor-molina">About Me</a>
+                        <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/">About Me</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle active" href="https://www.linkedin.com/in/yubormolina/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

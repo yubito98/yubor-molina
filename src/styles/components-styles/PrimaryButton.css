@@ -18,3 +18,11 @@
     background: var(--primary-color);
     box-shadow: none;
 }
+
+.btn-primary a{
+    color:white
+}
+
+.btn-primary a:hover{
+    color: white !important;
+}
