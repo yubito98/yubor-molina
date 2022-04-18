@@ -22,26 +22,26 @@ const Header = () => {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                        <a class="nav-link active" aria-current="page" href="http://yubito98.github.io/yubor-molina">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/">About Me</a>
+                        <a class="nav-link active" href="http://yubito98.github.io/yubor-molina">About Me</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle active" href="/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="https://www.linkedin.com/in/yubormolina/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Projects
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="/">Experience</a></li>
-                            <li><a class="dropdown-item" href="/">Projects</a></li>
-                            <li><a class="dropdown-item" href="/">Just for fun</a></li>
+                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Experience</a></li>
+                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Projects</a></li>
+                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Just for fun</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active">Testimonials</a>
+                        <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/" >Testimonials</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active">Blog</a>
+                        <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/" >Blog</a>
                     </li>
                 </ul>
                 <form class="d-flex">
