@@ -8,8 +8,8 @@ const App = () =>{
     return(
         <div className='global-container' >
             <Routes>
-                <Route path='http://yubito98.github.io/yubor-molina' exact element={<Home/>}/>
-                <Route path='http://yubito98.github.io/yubor-molina'exact element={<AboutMe/>}/>
+                <Route path='/yubor-molina' exact element={<Home/>}/>
+                <Route path='/yubor-molina'exact element={<AboutMe/>}/>
                 <Route element={<NotFound/>} />
             </Routes>
         </div>
