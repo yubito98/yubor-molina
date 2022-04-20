@@ -1,0 +1,10 @@
+.card-section-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@media(max-width:800px){
+    .card-section-container{
+        flex-direction: column;
+    }
+}

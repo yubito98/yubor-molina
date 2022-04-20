@@ -25,6 +25,8 @@ const Footer = () =>{
                     </div>
                 </div>
 
+                <p className="footer-react" >Powered with React</p>
+
                 <div className="footer-text">
                     <a href="https://yubito98.github.io/yubor-molina/">yubito98.github.io/yubor-molina/</a>
                 </div>

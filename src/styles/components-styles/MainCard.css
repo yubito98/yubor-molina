@@ -54,7 +54,11 @@
 
 @media (max-width:900px){
     .main-card-skills h2 {
-        font-size: 34px;
+        font-size: 32px;
+    }
+
+    .main-card-skills h3{
+        font-size: 20px;
     }
 }
 

@@ -27,11 +27,16 @@ footer{
     fill: var(--primary-color);
 }
 
+.footer-react{
+    margin:0px;
+    text-align: center;
+}
+
 .footer-text a{
     color: var(--tertiary-color);
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .footer-container{
         flex-direction: column;
         justify-content: center;
