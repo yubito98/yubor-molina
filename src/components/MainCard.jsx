@@ -28,7 +28,9 @@ const MainCard = ({subtitle, title, skills, text, image}) =>{
                     </h2>
                 </div>
                 <p className="main-card-text">{text}</p>
-                <PrimaryButton name="More about Me" />
+                <PrimaryButton 
+                link="https://www.linkedin.com/in/yubor-molina-duque-258a20114/"
+                name="More about Me" />
             </div>
 
             <div className="main-image">

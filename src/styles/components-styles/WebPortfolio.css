@@ -1,0 +1,48 @@
+.web-portfolio-title{
+    text-align: center;
+    color: var(--primary-color);
+    padding-bottom: 40px;
+ 
+}
+
+.web-portfolio-item{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    align-items: center;
+}
+
+.web-portfolio-info{
+    width: 50%;
+}
+
+.web-portfolio-image{
+    width: 50%;
+    height: 100%;
+}
+
+.web-portfolio-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+ 
+ @media(max-width:690px){
+
+    .web-portfolio-item{
+    flex-direction: column-reverse;
+    height: auto;
+    }
+
+    .web-portfolio-info{
+    width: 100%;
+    }
+
+    .web-portfolio-image{
+    width: 100%;
+    height: 300px;
+    padding-bottom: 30px;
+    }
+
+}

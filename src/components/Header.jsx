@@ -45,7 +45,10 @@ const Header = () => {
                     </li>
                 </ul>
                 <form class="d-flex">
-                        <PrimaryButton name="Contact Me" type="submit"/>
+                        <PrimaryButton 
+                        link="https://www.linkedin.com/in/yubor-molina-duque-258a20114/"
+                        name="Contact Me" 
+                        type="submit"/>
                 </form>
             </div>
         </div>

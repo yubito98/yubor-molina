@@ -4,6 +4,7 @@ import MainHomeSection from "../sections/MainHomeSection";
 import CardSection from "../sections/CardSection";
 import Message from '../components/Message';
 import Footer from "../components/Footer";
+import WebPortfolio from "../components/WebPortfolio";
 
 
 
@@ -13,6 +14,7 @@ function Home() {
       <Header/>
       <MainHomeSection/>
       <CardSection/>
+      <WebPortfolio/>
       <Message/>
       <Footer/>
     </>
