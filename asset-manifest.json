@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yubor-molina/static/css/main.b3d4d40a.css",
-    "main.js": "/yubor-molina/static/js/main.e96f8ecd.js",
+    "main.js": "/yubor-molina/static/js/main.bd062038.js",
     "static/media/yubor-casual.jpg": "/yubor-molina/static/media/yubor-casual.4f0ea9347efcae57c104.jpg",
     "static/media/yubor.jpg": "/yubor-molina/static/media/yubor.0bd26ec078243aad1f7e.jpg",
     "static/media/yubor-paisaje.jpg": "/yubor-molina/static/media/yubor-paisaje.c297cf9576283ed9718b.jpg",
@@ -10,10 +10,10 @@
     "static/media/youtube-logo.png": "/yubor-molina/static/media/youtube-logo.a8d135c3e7ccac12d821.png",
     "index.html": "/yubor-molina/index.html",
     "main.b3d4d40a.css.map": "/yubor-molina/static/css/main.b3d4d40a.css.map",
-    "main.e96f8ecd.js.map": "/yubor-molina/static/js/main.e96f8ecd.js.map"
+    "main.bd062038.js.map": "/yubor-molina/static/js/main.bd062038.js.map"
   },
   "entrypoints": [
     "static/css/main.b3d4d40a.css",
-    "static/js/main.e96f8ecd.js"
+    "static/js/main.bd062038.js"
   ]
 }
