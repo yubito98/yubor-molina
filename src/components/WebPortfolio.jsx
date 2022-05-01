@@ -7,7 +7,7 @@ const WebPortfolio = () =>{
     return(
         <div className="web-portfolio custom-container">
 
-            <h2 className="web-portfolio-title" >Web Development Portfolio</h2>
+            <h2 className="web-portfolio-title" >Web Development Portfolioo</h2>
 
             <div className="web-portfolio-item" >
                 <div className="web-portfolio-info">
