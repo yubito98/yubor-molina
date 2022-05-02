@@ -5,6 +5,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 import {BrowserRouter} from 'react-router-dom';
 import App from './routes/App';
 import "./styles/GlobalStyles.css";
+import "swiper/css/bundle";
 
 
 

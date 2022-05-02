@@ -13,6 +13,7 @@
     "react-router-dom": "^6.2.2",
     "react-scripts": "^5.0.0",
     "react-spring": "^9.4.4",
+    "swiper": "^8.1.4",
     "typed.js": "^2.0.12",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"

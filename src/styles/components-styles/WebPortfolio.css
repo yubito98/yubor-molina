@@ -1,9 +1,4 @@
-.web-portfolio-title{
-    text-align: center;
-    color: var(--primary-color);
-    padding-bottom: 40px;
- 
-}
+
 
 .web-portfolio-item{
     display: flex;
@@ -18,7 +13,7 @@
 
 .web-portfolio-image{
     width: 50%;
-    height: 100%;
+    height: 90%;
 }
 
 .web-portfolio-image img{
