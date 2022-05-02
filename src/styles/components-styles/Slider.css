@@ -25,6 +25,11 @@
   .swiper-pagination-bullet-active{
     background: var(--primary-color)!important;
   }
+
+
+  .swiper-pagination{
+      z-index: -1!important;
+  }
   @media(max-width:600px){
     .slider{
       height: auto;
