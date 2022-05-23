@@ -21,10 +21,10 @@ const apps = [
     {
         title:"Consuming Rick and Morty API",
         info:"This app is still in progress",
-        linkButton:"https://yubito98.github.io/yubor-molina/",
+        linkButton:"https://yubito98.github.io/rick-and-morty/",
         textButton:"GO TO APP",
         Image:rickApi,
-        linkImage:"https://yubito98.github.io/yubor-molina/",
+        linkImage:"https://yubito98.github.io/rick-and-morty/",
     }
 ]
 
