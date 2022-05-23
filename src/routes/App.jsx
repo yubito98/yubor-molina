@@ -5,13 +5,14 @@ import AboutMe from '../pages/AboutMe';
 
 const App = () =>{
     return(
+        <div className='global-container'>
         <BrowserRouter>
             <Routes>
                 <Route path='/yubor-molina' element={<Home/>}/>
                 <Route path='/about-me' element={<AboutMe/>}/>
             </Routes>
        </BrowserRouter>
-      
+      </div>
     )
 }
 
