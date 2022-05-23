@@ -7,8 +7,8 @@ const App = () =>{
     return(
         <div className='global-container' >
             <Routes>
-                <Route path='/yubor-molina' exact element={<Home/>}/>
-                <Route path='/yubor-molina/about-me' exact element={<AboutMe/>}/>
+                <Route path='/yubor-molina' element={<Home/>}/>
+                <Route path='/about-me' element={<AboutMe/>}/>
             </Routes>
         </div>
     )
