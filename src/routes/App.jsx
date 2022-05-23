@@ -1,15 +1,13 @@
 import React from 'react';
-import { Routes, Route} from 'react-router-dom'
+import {Route} from 'react-router-dom'
 import Home from '../pages/Home';
 import AboutMe from '../pages/AboutMe';
 
 const App = () =>{
     return(
         <div className='global-container'>
-            <Routes>
-                <Route path='/yubor-molina' element={<Home/>}/>
-                <Route path='/yubor-molina/about-me' element={<AboutMe/>}/>
-            </Routes>
+                <Route path='/' element={<Home/>}/>
+                <Route path='/about-me' element={<AboutMe/>}/>
       </div>
     )
 }
