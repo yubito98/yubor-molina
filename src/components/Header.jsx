@@ -25,7 +25,7 @@ const Header = () => {
                         <a class="nav-link active" aria-current="page" href="http://yubito98.github.io/yubor-molina">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/about-me">About Me</a>
+                        <a class="nav-link active" href="http://yubito98.github.io/yubor-molina/about-me">About Me</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle active" href="https://www.linkedin.com/in/yubormolina/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

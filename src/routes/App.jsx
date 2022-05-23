@@ -8,7 +8,7 @@ const App = () =>{
         <div className='global-container'>
             <Routes>
                 <Route path='/yubor-molina' element={<Home/>}/>
-                <Route path='/about-me' element={<AboutMe/>}/>
+                <Route path='/yubor-molina/about-me' element={<AboutMe/>}/>
             </Routes>
       </div>
     )
