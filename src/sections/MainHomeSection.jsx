@@ -12,7 +12,7 @@ const MainHomeSection = () =>{
                 subtitle="What's up! This is"
                 title="Yubor Molina"
                 skills="React"
-                text="I am a Colombian front-end web developer with experience using technologies such as REACT, JAVASCRIPT, CSS, and HTML. I am currently working for a company that helps the biggest HubSpot partners agencies around the world to tier up and scale fast."
+                text="I am a Colombian front-end web developer with experience using technologies such as React.js, Next.js, and the HubSpot CMS. I am currently working for a company that helps the biggest HubSpot partner agencies around the world to tier up and scale fast."
                 image={yubor}
              />
              <TriangleAnimation/>

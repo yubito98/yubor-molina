@@ -20,7 +20,7 @@ const apps = [
     },
     {
         title:"Consuming Rick and Morty API",
-        info:"Practicing in consuming Rick and Morty API using React and Axios",
+        info:"Practicing in consuming Rick and Morty API using React and Axios.",
         linkButton:"https://yubito98.github.io/rick-and-morty/",
         textButton:"GO TO APP",
         Image:rickApi,

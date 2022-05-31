@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/components-styles/MainTitle.css';
 
 const MainTitle = ({title})=>{
     return(

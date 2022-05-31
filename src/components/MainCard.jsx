@@ -18,11 +18,11 @@ const MainCard = ({subtitle, title, skills, text, image}) =>{
                     <h2>
                     <TypewriterComponent
                     options={{
-                        strings: ['React', 'JavaScript', 'HubSpot CMS'],
+                        strings: ['React.js', 'JavaScript', 'HubSpot CMS', 'Next.js'],
                         autoStart: true,
                         loop: true,
-                        delay:200,
-                        pauseFor:500
+                        delay:100,
+                        pauseFor:200
                       }}
                     /> 
                     </h2>
