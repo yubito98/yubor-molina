@@ -1,12 +1,14 @@
 .standar-card{
     width: 40%;
     height: 600px;
+
 }
 
 .card-item{
     width: 95%;
     height: 100%;
     margin: auto;
+    background-color: white;
     box-shadow: 0px -1px 16px 6px rgba(62,62,62,0.57);
     transition: 0.4s;
 }

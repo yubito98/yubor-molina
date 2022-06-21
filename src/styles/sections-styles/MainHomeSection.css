@@ -1,7 +1,9 @@
-
-
 .main-home-section{
     display: flex;
     flex-direction: column;
-    position: relative;
+    background: url('../../assets/Perspectiva.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 30px;
 }
