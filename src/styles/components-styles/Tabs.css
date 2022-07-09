@@ -1,0 +1,160 @@
+.tab-container{
+    max-width: 1080px;
+    margin: auto;
+    box-shadow: 0 -1px 16px 6px rgb(62 62 62 / 30%);
+    padding: 50px 40px;
+}
+
+.tab-header{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.tab-header-item{
+    width: 25%;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: 0.5s;
+}
+
+.tab-header-item-active{
+    border-bottom: 2px solid #042dea;
+    color: #042dea;
+
+}
+
+.tab-content{
+    min-height:400px;
+}
+
+.tab-content-item{
+    display: none;
+    transition:0.5s;
+}
+
+.content-item-container{
+    width: 100%;
+}
+
+.content-item-container h3{
+    text-align: right;
+    margin-left: 40%;
+    color: #042d5e;
+}
+
+.tab-content-item-active{
+    display: block;
+}
+
+
+
+.info-list{
+    margin-top: 25px;
+    position: relative;
+}
+
+.info-list-item{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.content-item-img{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 0%;
+    margin-right: 20px;
+    transition: 0.5s;
+}
+
+.content-item-img-active{
+    width: 35%;
+   
+}
+
+.content-item-img img{
+    width: 100%;
+}
+
+
+
+.list-item-information{
+    width: 60%;
+    cursor: pointer;
+    border-bottom: 1px solid #eeeeee;
+    transition: 0.5s;
+}
+
+
+.list-item-information h5,
+.list-item-information svg path{
+    transition: 0.5s;
+}
+
+.info-list-item-active .list-item-information h5,
+.info-list-item-active .list-item-information svg path{
+    color: #042dea;
+    stroke: #042dea;
+}
+
+.info-list-item-active .list-item-information{
+    border-bottom: 1px solid #042dea;
+    height: 100px;
+}
+.info-list-item-active .list-item-information p{
+    color: #042d5e;
+}
+
+
+.list-item-info-tab{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-item-subtitle{
+    margin: 0px;
+    padding: 20px 0px;
+}
+
+.list-item-text{
+    display:none;
+    transition: 0.5s;
+}
+
+.list-item-text-active{
+    display: block;
+}
+
+
+@media(max-width:650px){
+    .tab-header{
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .tab-header-item{
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    .info-list-item{
+        flex-direction: column-reverse;
+    }
+    .content-item-img{
+        position: static;
+    }
+
+    .list-item-information{
+        width: 100%;
+        border-bottom: none;
+    }
+    .info-list-item-active .list-item-information{
+        border-bottom: none;
+    }
+    .content-item-container h3{
+        margin-left: 20%;
+    }
+}

@@ -4,8 +4,9 @@ import MainHomeSection from "../sections/MainHomeSection";
 import CardSection from "../sections/CardSection";
 import Message from '../components/Message';
 import Footer from "../components/Footer";
-
+import Tabs from "../components/Tabs";
 import Slider from "../components/Slider";
+import Layout from "../sections/Layout";
 
 
 
@@ -14,6 +15,9 @@ function Home() {
     <>
       <Header/>
       <MainHomeSection/>
+      <Layout>
+        <Tabs/>
+      </Layout>
       <CardSection/>
       <Slider/>
       <Message/>
