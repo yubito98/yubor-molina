@@ -1,3 +1,9 @@
+import theme from "../../assets/theme.png"
+import blog from "../../assets/blog.png"
+import templates from "../../assets/templates.jpeg"
+import modules from "../../assets/modules.jpeg"
+import hubdb from "../../assets/hubdb.jpeg"
+
 const data = [
     {
         "title": "Do you know Webdox trust me to built their main homepage?",
@@ -15,7 +21,7 @@ const data = [
         "title": "Do you need a theme that fit your needs?",
         "subtitle": "Let's start from scratch",
         "description": "I can set up a theme so you website can be build easily for your content editors.",
-        "image": "../../assets/theme.png",
+        "image": `${theme}`,
         "reverse": "",
         "button":{
         "link":"",
@@ -27,7 +33,7 @@ const data = [
         "title": "Let's build a blog for you",
         "subtitle": "here goes subtitle",
         "description": "here goes description",
-        "image":"../../assets/blog.png",
+        "image":`${blog}`,
         "reverse": "flex-row-reverse",
         "button":{
         "link":"",
@@ -39,7 +45,7 @@ const data = [
         "title": "Let's create templates",
         "subtitle": "I want your work to be easier",
         "description": "You can create pages easily based on the templates I can build for you.",
-        "image":"../../templates.jpeg",
+        "image":`${templates}`,
         "reverse": "",
         "button":{
         "link":"",
@@ -51,7 +57,7 @@ const data = [
         "title": "Custom Modules",
         "subtitle": "As complex as you want",
         "description": "I can build complex modules that can be reused in your website esasily.",
-        "image":"../../modules.jpeg",
+        "image":`${modules}`,
         "reverse": "flex-row-reverse",
         "button":{
         "link":"",
@@ -63,7 +69,7 @@ const data = [
         "title": "Dynamic pages from your HubSpot database",
         "subtitle": "here goes subtitle",
         "description": "here goes description",
-        "image": "../../hubdb.jpeg",
+        "image": `${hubdb}`,
         "reverse": "",
         "button":{
         "link":"",

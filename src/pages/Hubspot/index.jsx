@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../../components/Header";
 import ImageText from "../../components/image-text";
 import {data} from "./data"
+import hubdb from "../../assets/theme.png"
 
 const Hubspot = () =>{
     return(
