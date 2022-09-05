@@ -12,7 +12,7 @@ const data = [
         "reverse": "flex-row-reverse",
         "image":"/yubor-molina/static/media/webdox.c487e11d471aa3e21d06.jpeg",
         "button":{
-        "link":"",
+        "link":"https://www.webdoxclm.com/",
         "text":"Take a look"
         }
     },
@@ -20,23 +20,23 @@ const data = [
     {
         "title": "Do you need a theme that fit your needs?",
         "subtitle": "Let's start from scratch",
-        "description": "I can set up a theme so you website can be build easily for your content editors.",
+        "description": "I can set up a theme so your website can be built easily from the content editor.",
         "image": `${theme}`,
         "reverse": "",
         "button":{
-        "link":"",
+        "link":"https://www.linkedin.com/in/yubormolina/",
         "text":"Book a Meeting"
         }
     },
 
     {
         "title": "Let's build a blog for you",
-        "subtitle": "here goes subtitle",
-        "description": "here goes description",
+        "subtitle": "Show the world what you want to say",
+        "description": "Don't limit your service to what HubSpot by default can give you. I can build a blog listing and a blog post template with all your requirements.",
         "image":`${blog}`,
         "reverse": "flex-row-reverse",
         "button":{
-        "link":"",
+        "link":"https://www.linkedin.com/in/yubormolina/",
         "text":""
         }
     },
@@ -48,7 +48,7 @@ const data = [
         "image":`${templates}`,
         "reverse": "",
         "button":{
-        "link":"",
+        "link":"https://www.linkedin.com/in/yubormolina/",
         "text":""
         }
     },
@@ -56,23 +56,23 @@ const data = [
     {
         "title": "Custom Modules",
         "subtitle": "As complex as you want",
-        "description": "I can build complex modules that can be reused in your website esasily.",
+        "description": "I can build complex modules that can be reused on your website easily.",
         "image":`${modules}`,
         "reverse": "flex-row-reverse",
         "button":{
-        "link":"",
+        "link":"https://www.linkedin.com/in/yubormolina/",
         "text":""
         }
     },
 
     {
         "title": "Dynamic pages from your HubSpot database",
-        "subtitle": "here goes subtitle",
-        "description": "here goes description",
+        "subtitle": "Do you have products to show?",
+        "description": "Show relevant information with dynamic pages consuming data from your HubSpot database.",
         "image": `${hubdb}`,
         "reverse": "",
         "button":{
-        "link":"",
+        "link":"https://www.linkedin.com/in/yubormolina/",
         "text":""
         }
     }

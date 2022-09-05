@@ -16,7 +16,7 @@ const ImageText = ({title, subtitle, description, link, linkText, image, reverse
                     <h2>{title}</h2>
                     <h3>{subtitle}</h3>
                     <h4>{description}</h4>
-                    <a href={link}>{linkText}</a>
+                    <a target="_blank" href={link}>{linkText}</a>
                 </div>
             </div>
             

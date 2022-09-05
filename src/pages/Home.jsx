@@ -27,7 +27,10 @@ function Home() {
         <Tabs/>
       </Layout>
       <CardSection/>
-      <Message/>
+      <Message
+      title="This website is still in progress"
+      description="Please check my linkedIn for more information:"
+      />
       <Footer/>
     </>
   );

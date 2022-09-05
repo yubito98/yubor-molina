@@ -2,13 +2,13 @@ import React from "react";
 import '../styles/components-styles/Message.css'
 
 
-const Message = () =>{
+const Message = ({title, description}) =>{
     return(
         <div className="message custom-container">
 
             <div className="message-info">
-                <h3>This website is still in progress</h3>
-                <p>Please check my linkedIn for more information:</p>
+                <h3>{title}</h3>
+                <p>{description}</p>
             </div>
             <div className="message-icon">
                 <a href="https://www.linkedin.com/in/yubor-molina-duque-258a20114/" target="_blank">

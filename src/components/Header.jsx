@@ -24,9 +24,6 @@ const Header = () => {
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="http://yubito98.github.io/yubor-molina">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://yubito98.github.io/yubor-molina/#/about-me">About Me</a>
-                    </li>
 
                     <li class="nav-item">
                         <a class="nav-link active" href="https://yubito98.github.io/yubor-molina/#/hubspot">HubSpot</a>
