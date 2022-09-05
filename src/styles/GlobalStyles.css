@@ -24,6 +24,13 @@ body{
     position: relative;
 }
 
+/* FONT STYLES */
+h1{font-weight: 900;}
+h2{font-weight: 700;}
+h3{font-weight: 700;}
+h4{font-weight: 600;}
+/* END FONT STYLES */ 
+
 a{
     color: var(--primary-color);
     cursor: pointer;

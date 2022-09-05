@@ -8,8 +8,17 @@ import { Navigation, Pagination, Mousewheel, Keyboard } from "swiper";
 import WebPortfolio from "../components/WebPortfolio";
 import toDoList from '../assets/to-do-list.jpeg'
 import rickApi from '../assets/rick-api.png'
+import webdox from '../assets/webdox.jpeg'
 
 const apps = [
+    {
+        title:"Homepage for WEBDOX!",
+        info:"Webdox is an international software company with presence in 11 contries with more than 180 clients. I feel very proud they chose me to built their main homepage!",
+        linkButton:"https://www.webdoxclm.com/",
+        textButton:"GO TO PAGE",
+        Image: webdox,
+        linkImage:"https://www.webdoxclm.com/",
+    },
     {
         title:"To Do List App",
         info:"I built the to do list app to practice React. I used a lot of JavaScript to give several functionalities to the app. I required react hooks such as useState, useEffect and useContext. I also required custom hooks for saving data in the local storage.",

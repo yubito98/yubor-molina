@@ -3,12 +3,13 @@
 .web-portfolio-item{
     display: flex;
     justify-content: space-between;
-    height: 500px;
+    height: 400px;
     align-items: center;
 }
 
 .web-portfolio-info{
     width: 50%;
+    padding-right:30px;
 }
 
 .web-portfolio-image{

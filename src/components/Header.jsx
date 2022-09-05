@@ -27,16 +27,11 @@ const Header = () => {
                     <li class="nav-item">
                         <a class="nav-link active" href="https://yubito98.github.io/yubor-molina/#/about-me">About Me</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle active" href="https://www.linkedin.com/in/yubormolina/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Projects
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Experience</a></li>
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Projects</a></li>
-                            <li><a class="dropdown-item" href="https://www.linkedin.com/in/yubormolina/">Just for fun</a></li>
-                        </ul>
+
+                    <li class="nav-item">
+                        <a class="nav-link active" href="https://yubito98.github.io/yubor-molina/#/hubspot">HubSpot</a>
                     </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/" >Testimonials</a>
                     </li>
