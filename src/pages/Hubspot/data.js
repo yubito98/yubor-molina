@@ -15,7 +15,7 @@ const data = [
         "title": "Do you need a theme that fit your needs?",
         "subtitle": "Let's start from scratch",
         "description": "I can set up a theme so you website can be build easily for your content editors.",
-        "image": "/yubor-molina/static/media/theme.914b3831801dade6e27e.png",
+        "image": "../../assets/theme.png",
         "reverse": "",
         "button":{
         "link":"",
@@ -27,7 +27,7 @@ const data = [
         "title": "Let's build a blog for you",
         "subtitle": "here goes subtitle",
         "description": "here goes description",
-        "image":"/yubor-molina/static/media/blog.f50311291f0a559d796e.png",
+        "image":"../../assets/blog.png",
         "reverse": "flex-row-reverse",
         "button":{
         "link":"",
@@ -39,7 +39,7 @@ const data = [
         "title": "Let's create templates",
         "subtitle": "I want your work to be easier",
         "description": "You can create pages easily based on the templates I can build for you.",
-        "image":"/yubor-molina/static/media/templates.66002daaed006b560bee.jpeg",
+        "image":"../../templates.jpeg",
         "reverse": "",
         "button":{
         "link":"",
@@ -51,7 +51,7 @@ const data = [
         "title": "Custom Modules",
         "subtitle": "As complex as you want",
         "description": "I can build complex modules that can be reused in your website esasily.",
-        "image":"/yubor-molina/static/media/modules.b6a81f17cc4ebc7b3d8a.jpeg",
+        "image":"../../modules.jpeg",
         "reverse": "flex-row-reverse",
         "button":{
         "link":"",
@@ -63,7 +63,7 @@ const data = [
         "title": "Dynamic pages from your HubSpot database",
         "subtitle": "here goes subtitle",
         "description": "here goes description",
-        "image": "/yubor-molina/static/media/hubdb.6aed28abed46c57a3ed2.jpeg",
+        "image": "../../hubdb.jpeg",
         "reverse": "",
         "button":{
         "link":"",
