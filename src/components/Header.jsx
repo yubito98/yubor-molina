@@ -26,7 +26,7 @@ const Header = () => {
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link active" href="https://yubito98.github.io/yubor-molina/#/hubspot">HubSpot</a>
+                        <a class="nav-link active" href="https://digital-growth-22651319.hubspotpagebuilder.com/home-page">HubSpot</a>
                     </li>
                     
                     <li class="nav-item">

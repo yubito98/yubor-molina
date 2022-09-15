@@ -19,7 +19,7 @@ function Home() {
       title="Do you need help with the HubSpot CMS?"
       subtitle="I can help you!"
       description="I've been working for the biggest HubSpot partners agencies around the world."
-      link="https://yubito98.github.io/yubor-molina/#/hubspot"
+      link="https://digital-growth-22651319.hubspotpagebuilder.com/home-page"
       linkText="Look at my work"
       />
       <Slider/>
