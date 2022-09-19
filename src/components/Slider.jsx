@@ -6,9 +6,10 @@ import "swiper/css/pagination";
 import "../styles/components-styles/Slider.css";
 import { Navigation, Pagination, Mousewheel, Keyboard } from "swiper";
 import WebPortfolio from "../components/WebPortfolio";
-import toDoList from '../assets/to-do-list.jpeg'
-import rickApi from '../assets/rick-api.png'
-import webdox from '../assets/webdox.jpeg'
+import toDoList from '../assets/to-do-list.jpeg';
+import rickApi from '../assets/rick-api.png';
+import webdox from '../assets/webdox.jpeg';
+import dg from '../assets/digital-growth.jpeg'
 
 const apps = [
     {
@@ -18,6 +19,14 @@ const apps = [
         textButton:"GO TO PAGE",
         Image: webdox,
         linkImage:"https://www.webdoxclm.com/",
+    },
+    {
+        title:"Website for Digital Growth",
+        info:"Digital Growth is an agency where we delvelop websites for our clients with the HubSpot CMS tool. I built this company so me and my developer friends can work as a freelancers.",
+        linkButton:"https://digital-growth-22651319.hubspotpagebuilder.com/home-page",
+        textButton:"GO TO PAGE",
+        Image: dg,
+        linkImage:"https://digital-growth-22651319.hubspotpagebuilder.com/home-page",
     },
     {
         title:"To Do List App",
