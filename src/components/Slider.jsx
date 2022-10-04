@@ -23,10 +23,10 @@ const apps = [
     {
         title:"Website for Digital Growth",
         info:"Digital Growth is an agency where we delvelop websites for our clients with the HubSpot CMS tool. I built this company so me and my developer friends can work as a freelancers.",
-        linkButton:"https://digital-growth-22651319.hubspotpagebuilder.com/home-page",
+        linkButton:"https://digital-growth-22651319.hubspotpagebuilder.com",
         textButton:"GO TO PAGE",
         Image: dg,
-        linkImage:"https://digital-growth-22651319.hubspotpagebuilder.com/home-page",
+        linkImage:"https://digital-growth-22651319.hubspotpagebuilder.com",
     },
     {
         title:"To Do List App",
