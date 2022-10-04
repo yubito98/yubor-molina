@@ -9,7 +9,8 @@ import WebPortfolio from "../components/WebPortfolio";
 import toDoList from '../assets/to-do-list.jpeg';
 import rickApi from '../assets/rick-api.png';
 import webdox from '../assets/webdox.jpeg';
-import dg from '../assets/digital-growth.jpeg'
+import dg from '../assets/digital-growth.jpeg';
+import piedraPapelTijera from '../assets/piedra-papel-tiejera';
 
 const apps = [
     {
@@ -43,6 +44,14 @@ const apps = [
         textButton:"GO TO APP",
         Image:rickApi,
         linkImage:"https://yubito98.github.io/rick-and-morty/",
+    },
+    {
+        title:"Rock, paper, scissor Game",
+        info:"Just for fun! Practicing a little bit of React.",
+        linkButton:"https://yubito98.github.io/rock-paper-scissor/",
+        textButton:"GO TO APP",
+        Image:piedraPapelTijera,
+        linkImage:"https://yubito98.github.io/rock-paper-scissor/",
     }
 ]
 
