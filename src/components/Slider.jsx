@@ -11,6 +11,7 @@ import rickApi from '../assets/rick-api.png';
 import webdox from '../assets/webdox.jpeg';
 import dg from '../assets/digital-growth.jpeg';
 import piedraPapelTijera from '../assets/piedra-papel-tijera.jpeg';
+import calculator from '../assets/calculator.jpeg';
 
 const apps = [
     {
@@ -36,6 +37,14 @@ const apps = [
         textButton:"GO TO APP",
         Image:toDoList,
         linkImage:"https://yubito98.github.io/to-do-list/",
+    },
+    {
+        title:"Calculator",
+        info:"Just for fun! Practicing a little bit of React.",
+        linkButton:"https://yubito98.github.io/calculator/",
+        textButton:"GO TO APP",
+        Image:calculator,
+        linkImage:"https://yubito98.github.io/calculator/",
     },
     {
         title:"Consuming Rick and Morty API",
