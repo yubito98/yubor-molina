@@ -10,7 +10,7 @@ import toDoList from '../assets/to-do-list.jpeg';
 import rickApi from '../assets/rick-api.png';
 import webdox from '../assets/webdox.jpeg';
 import dg from '../assets/digital-growth.jpeg';
-import piedraPapelTijera from '../assets/piedra-papel-tiejera';
+import piedraPapelTijera from '../assets/piedra-papel-tijera.jpeg';
 
 const apps = [
     {
