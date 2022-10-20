@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yubor-molina/static/css/main.486d5a9d.css",
-    "main.js": "/yubor-molina/static/js/main.69235692.js",
+    "main.js": "/yubor-molina/static/js/main.adb392ee.js",
     "static/media/blog.png": "/yubor-molina/static/media/blog.f50311291f0a559d796e.png",
     "static/media/rick-api.png": "/yubor-molina/static/media/rick-api.287b0d3423ea76b5677c.png",
     "static/media/yubor-casual.jpg": "/yubor-molina/static/media/yubor-casual.4f0ea9347efcae57c104.jpg",
@@ -13,6 +13,7 @@
     "static/media/webdox.jpeg": "/yubor-molina/static/media/webdox.c487e11d471aa3e21d06.jpeg",
     "static/media/Perspectiva.png": "/yubor-molina/static/media/Perspectiva.a2da5cca7bed33328703.png",
     "static/media/react-icon.png": "/yubor-molina/static/media/react-icon.a544fd8cf64d82898e91.png",
+    "static/media/giphy-api.jpeg": "/yubor-molina/static/media/giphy-api.4e0d0bcbff2b25239b12.jpeg",
     "static/media/templates.jpeg": "/yubor-molina/static/media/templates.66002daaed006b560bee.jpeg",
     "static/media/digital-growth.jpeg": "/yubor-molina/static/media/digital-growth.639b0ffa7cbfbc3310dd.jpeg",
     "static/media/node-logo.png": "/yubor-molina/static/media/node-logo.c2e22c634a7336cbe298.png",
@@ -31,10 +32,10 @@
     "static/media/js-logo.png": "/yubor-molina/static/media/js-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/yubor-molina/index.html",
     "main.486d5a9d.css.map": "/yubor-molina/static/css/main.486d5a9d.css.map",
-    "main.69235692.js.map": "/yubor-molina/static/js/main.69235692.js.map"
+    "main.adb392ee.js.map": "/yubor-molina/static/js/main.adb392ee.js.map"
   },
   "entrypoints": [
     "static/css/main.486d5a9d.css",
-    "static/js/main.69235692.js"
+    "static/js/main.adb392ee.js"
   ]
 }
