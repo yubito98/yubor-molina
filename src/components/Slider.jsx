@@ -12,6 +12,7 @@ import webdox from '../assets/webdox.jpeg';
 import dg from '../assets/digital-growth.jpeg';
 import piedraPapelTijera from '../assets/piedra-papel-tijera.jpeg';
 import calculator from '../assets/calculator.jpeg';
+import giphyApi from '../assets/giphy-api.jpeg';
 
 const apps = [
     {
@@ -29,6 +30,14 @@ const apps = [
         textButton:"GO TO PAGE",
         Image: dg,
         linkImage:"https://digital-growth-22651319.hubspotpagebuilder.com",
+    },
+    {
+        title:"Giphy API",
+        info:"Built in React. Consuming the Giphy API just for fun. Practicing custom hooks with this.",
+        linkButton:"https://yubito98.github.io/giphy-api/",
+        textButton:"GO TO PAGE",
+        Image: giphyApi,
+        linkImage:"https://yubito98.github.io/giphy-api/",
     },
     {
         title:"To Do List App",
