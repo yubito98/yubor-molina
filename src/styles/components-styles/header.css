@@ -32,15 +32,15 @@
 }
 
 .navbar-nav{
-    width:45%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-right:50px;
 }
 
 .nav-item a{
     color: var(--tertiry-color);
     cursor: pointer;
+    margin-right: 30px;
     transition: 0.5s;
 }
 
