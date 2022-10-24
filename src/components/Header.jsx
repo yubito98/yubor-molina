@@ -30,10 +30,7 @@ const Header = () => {
                     </li>
                     
                     <li class="nav-item">
-                        <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/" >Testimonials</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://www.linkedin.com/in/yubormolina/" >Blog</a>
+                        <a class="nav-link active" href="https://digital-growth-22651319.hubspotpagebuilder.com/yubor-molina">Blog</a>
                     </li>
                 </ul>
                 <form class="d-flex">
